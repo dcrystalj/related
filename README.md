@@ -19,7 +19,7 @@ This system is now built for wordpress blogs only, but can be easly extended to 
     </div>
     ```
 
-    to your WORDPRESS_FOLDER\wp-content\themes\NAME_OF_YOUR_THEME\content.php at insde of ```<div class="entry-content"></div>``` block at the end.
+    to your ```WORDPRESS_FOLDER\wp-content\themes\NAME_OF_YOUR_THEME\content.php``` insde of ```<div class="entry-content"></div>``` block at the end.
 
 - To see in pictures how alghoritm works on your blog run ```analyse_algorithm BLOG_URL BLOG_NAME```
 
